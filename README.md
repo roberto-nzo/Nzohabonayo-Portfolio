@@ -8,7 +8,7 @@ Database-related portfolio
 ![](/images/CompanyNames_Websites.PNG)
 
 # [Project 2: Library Management System](https://github.com/roberto-nzo/Library-Management-System)
-In this project I display some of my skills of manipulating data using SQL language.
-The word document (PDF(SOLUTIONS).docx is accessible by downloading it.
+- In this project I display some of my skills of manipulating data using SQL language.
+- The word document (PDF(SOLUTIONS).docx is accessible by downloading it.
 
 ![](/images/Sample_MySQL.PNG)
